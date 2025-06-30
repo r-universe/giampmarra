@@ -5,6 +5,9 @@
 [submodule "GJRM"]
 	path = GJRM
 	url = https://github.com/cran/GJRM
+[submodule "GJRM.data"]
+	path = GJRM.data
+	url = https://github.com/cran/GJRM.data
 [submodule "bgeva"]
 	path = bgeva
 	url = https://github.com/cran/bgeva
